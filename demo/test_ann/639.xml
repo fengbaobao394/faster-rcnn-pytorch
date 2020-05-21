@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>639.jpg</filename>
+  <size>
+    <width>908</width>
+    <height>518</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ground track field</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>295</xmin>
+      <ymin>35</ymin>
+      <xmax>550</xmax>
+      <ymax>293</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball diamond</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>455</xmin>
+      <ymin>319</ymin>
+      <xmax>556</xmax>
+      <ymax>416</ymax>
+    </bndbox>
+  </object>
+</annotation>

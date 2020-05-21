@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>626.jpg</filename>
+  <size>
+    <width>811</width>
+    <height>535</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bridge</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>450</xmin>
+      <ymin>126</ymin>
+      <xmax>654</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+</annotation>

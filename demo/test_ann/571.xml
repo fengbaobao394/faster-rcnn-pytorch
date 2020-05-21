@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>571.jpg</filename>
+  <size>
+    <width>854</width>
+    <height>597</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>basketball court</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>250</xmin>
+      <ymin>200</ymin>
+      <xmax>290</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>basketball court</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>292</xmin>
+      <ymin>200</ymin>
+      <xmax>332</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>649.jpg</filename>
+  <size>
+    <width>835</width>
+    <height>559</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>basketball court</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>383</xmin>
+      <ymin>151</ymin>
+      <xmax>457</xmax>
+      <ymax>244</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>basketball court</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>454</xmin>
+      <ymin>148</ymin>
+      <xmax>530</xmax>
+      <ymax>241</ymax>
+    </bndbox>
+  </object>
+</annotation>

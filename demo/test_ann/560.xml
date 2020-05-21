@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>560.jpg</filename>
+  <size>
+    <width>975</width>
+    <height>583</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>baseball diamond</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>157</xmin>
+      <ymin>182</ymin>
+      <xmax>242</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bridge</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>431</xmin>
+      <ymin>175</ymin>
+      <xmax>686</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+</annotation>

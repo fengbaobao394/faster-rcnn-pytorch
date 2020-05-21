@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>621.jpg</filename>
+  <size>
+    <width>825</width>
+    <height>538</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ground track field</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>259</xmin>
+      <ymin>83</ymin>
+      <xmax>501</xmax>
+      <ymax>371</ymax>
+    </bndbox>
+  </object>
+</annotation>

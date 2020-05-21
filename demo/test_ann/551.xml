@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>551.jpg</filename>
+  <size>
+    <width>1002</width>
+    <height>565</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bridge</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>283</xmin>
+      <ymin>280</ymin>
+      <xmax>441</xmax>
+      <ymax>386</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bridge</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>580</xmin>
+      <ymin>177</ymin>
+      <xmax>744</xmax>
+      <ymax>318</ymax>
+    </bndbox>
+  </object>
+</annotation>
