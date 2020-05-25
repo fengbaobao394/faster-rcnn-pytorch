@@ -19,7 +19,7 @@
 2、进入lib文件夹 ：命令行输入cd lib，编译程序需要用到的组件如nms与roi-pooling：sh make.sh，**此步很重要，重要！**，不然后面会找不到_nms库；   
 3、开始运行trainval_net.py文件；  
 4、待模型训练好后，运行demo.py进行预测，预测结果保存在demo/result/下；  
-5、**注** 在训练自己的数据集时前，需要在Data/picture_data/下生成一个train.txt文件，此文件包含了训练图片的名称(没有图片格式后缀)，需要先运行下make_train_txt.py生成train.txt文件。  
+5、**注/:**在训练自己的数据集时前，需要在Data/picture_data/下生成一个train.txt文件，此文件包含了训练图片的名称(没有图片格式后缀)，需要先运行下make_train_txt.py生成train.txt文件。  
 
 
 参考
