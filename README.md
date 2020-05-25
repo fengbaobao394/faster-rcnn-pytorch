@@ -22,6 +22,9 @@
 5、在训练自己的数据集时前，需要在Data/picture_data/下生成一个train.txt文件，此文件包含了训练图片的名称(没有图片格式后缀)，需要先运行下make_train_txt.py生成train.txt文件。  
 
 
+![image](https://github.com/xu911/faster-rcnn-pytorch/blob/master/demo/result/554_det.jpg)
+
+
 参考
 ---
 [https://github.com/Liu-Yicheng/Faster-rcnn](https://github.com/Liu-Yicheng/Faster-rcnn)
