@@ -1,7 +1,7 @@
 #使用faster-rcnn来训练自己的数据
-====
+
 ##此代码的运行环境为ubuntu+python3.6+cuda9.2+torch0.3.0+torchvision0.2.1
-----
+
 **建议在torch0.4.0及以下版本运行，否则可能导致运行bug。不建议在windows下进行操作，会出现一个调用so包的问题。**
 
 ###前期准备
